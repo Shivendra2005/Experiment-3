@@ -1,4 +1,4 @@
-# Experiment-3
+# To study and implement Operators in C++
 
 Aim -> To study and implement Operators in C++
 
